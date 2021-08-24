@@ -1,0 +1,21 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/countdown5.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/hule_fan_out.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_pon.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_kan.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_chi.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_rich.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_rich.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_ron.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_tumo.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/act_tumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/andywong/tenhou_se_bg/main/tenhou/yakuman.mp3"}
+  }
+}
